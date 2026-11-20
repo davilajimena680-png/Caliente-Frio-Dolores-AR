@@ -15,8 +15,8 @@
 
 <table>
   <tr>
-    <th align="center">🔴 ROJO</th>
-    <th align="center">🟢 VERDE</th>
+    <th align="center"></th>
+    <th align="center"></th>
   </tr>
   <tr>
     <td><img src="screenshoots/R2_2.1-PruebasDestino_Rojo.png" width="450"></td>
@@ -40,8 +40,8 @@
 
 <table>
   <tr>
-    <th align="center">🔴 ROJO</th>
-    <th align="center">🟢 VERDE</th>
+    <th align="center">ROJO</th>
+    <th align="center">VERDE</th>
   </tr>
   <tr>
     <td><img src="screenshoots/R4-4.1-EsconderPersonajes_Rojo.png" width="450"></td>
@@ -55,8 +55,8 @@
 
 <table>
   <tr>
-    <th align="center">🔴 ROJO</th>
-    <th align="center">🟢 VERDE</th>
+    <th align="center">ROJO</th>
+    <th align="center">VERDE</th>
   </tr>
   <tr>
     <td><img src="screenshoots/R5-5.1_Radar_Rojo.png" width="450"></td>
@@ -70,8 +70,8 @@
 
 <table>
   <tr>
-    <th align="center">🔴 ROJO</th>
-    <th align="center">🟢 VERDE</th>
+    <th align="center">ROJO</th>
+    <th align="center">VERDE</th>
   </tr>
   <tr>
     <td><img src="screenshoots/R6-6.1_Rojo.png" width="450"></td>
@@ -85,8 +85,8 @@
 
 <table>
   <tr>
-    <th align="center">🔴 ROJO</th>
-    <th align="center">🟢 VERDE</th>
+    <th align="center">ROJO</th>
+    <th align="center">VERDE</th>
   </tr>
   <tr>
     <td><img src="screenshoots/R7-7.1_Rojo.png" width="450"></td>
@@ -118,8 +118,8 @@
 
 <table>
   <tr>
-    <th align="center">🔴 ROJO</th>
-    <th align="center">🟢 VERDE</th>
+    <th align="center">ROJO</th>
+    <th align="center">VERDE</th>
   </tr>
   <tr>
     <td><img src="screenshoots/R10-10.1_Rojo.png" width="450"></td>
@@ -177,5 +177,4 @@
 ---
 
 <div align="center">
-<sub>Hecho con 💙 y Flutter</sub>
-</div>
+
